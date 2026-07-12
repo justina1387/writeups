@@ -2,8 +2,6 @@
 
 CTF writeups by [overtsleeping](https://overtsleeping.com) — includes failed attempts that were close to solve for future reference. Or not. *do not bully me thx!*
 
----
-
 ## Repository Structure
 
 ```
@@ -19,16 +17,12 @@ writeups/
 └── README.md
 ```
 
----
-
 ## Completed CTF Writeups
 
 ### 2026
 
 #### [BroncoCTF 2026](https://github.com/justina1387/writeups/tree/main/2026/BroncoCTF%202026)
 > **Team:** e0sec &nbsp;|&nbsp; **Alias:** overtsleeping &nbsp;|&nbsp; **Categories:** OSINT &nbsp;|&nbsp; **Solved:** 3 / 4
-
----
 
 ## Failed / Incomplete
 
@@ -38,7 +32,6 @@ writeups/
 |-----|---------|
 | R3CTF 2026 | [View](https://github.com/justina1387/writeups/blob/main/2026/Failed/R3CTF2026.md) |
 
----
 ## In Progress(ish)
 | CTF | Status |
 |-----|---------|
