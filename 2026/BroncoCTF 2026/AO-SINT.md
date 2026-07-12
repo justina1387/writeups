@@ -33,7 +33,9 @@ This aligns with the file names. B = Bronze Sea, N = Nimbus Sea.
 1. From 1B, we notice frozen islands in the background. Frostmill Island is the only frozen-looking island in the Bronze Sea, so we assume 1B is close to it.
 The player is also standing on a sharp stone edge.
 <img src="docs/AO-SINT/image-1.png" alt="alt text|448" width="412">
+
 > Initially, I believed that we were standing on Dawn Island. I failed my first flag attempt, and decided that I would just boot up Roblox since the Dawn Island page mentioned that it was the starter island. Below is how I could have solved it.
+> 
 2. We can see that the location faces an island with a gigantic tree--this is Elm Island. We also see what appears to be Dawn Island.
 <img src="docs/AO-SINT/image-2.png" alt="alt text|411" width="411">
 <img src="docs/AO-SINT/image-3.png" alt="alt text|404" width="419">
