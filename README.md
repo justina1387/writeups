@@ -3,7 +3,7 @@ Repo for CTF writeups - includes failed attempts that were close to solve for fu
 
 # General Structure of Writeup
 ```
-Team Name | Alias | CTF Name | MM/DD/YYYY
+Team Name | Alias | CTF Name | Type |
 
 > Ranking image
 > Personally solved: x challenges
