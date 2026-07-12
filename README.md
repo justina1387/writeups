@@ -1,5 +1,5 @@
 # Writeups
-Repo for CTF writeups - includes failed attempts that were close to solve for future reference (do not bully me)
+Repo for CTF writeups - includes failed attempts that were close to solve for future reference (or not, do not bully me)
 
 # General Structure of Writeup
 ```
