@@ -2,7 +2,7 @@
 
 CTF writeups by [overtsleeping](https://overtsleeping.com) — includes failed attempts that were close to solve for future reference. Or not. *do not bully me thx!*
 
-![alt text|446](docs/README/minons.png)
+<img src="docs/README/minons.png" alt="alt text" width="288">
 
 ## Repository Structure
 

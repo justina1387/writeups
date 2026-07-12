@@ -25,7 +25,7 @@ My note: Images are 1B, 2N, 3N, and 4B, respectively.
 # Steps
 1. We know that the challenge is based on Arcane Odyssey, a game on Roblox. With RPG-esque games, there are usually dedicated Wiki pages maintained by players. Let's check the Wiki for a subpage that should have location images (map):
 https://roblox-arcane-odyssey.fandom.com/wiki/War_Seas
-![alt text|346](docs/AO-SINT/image.png)
+<img src="docs/AO-SINT/image.png" alt="alt text|346" width="339">
 This aligns with the file names. B = Bronze Sea, N = Nimbus Sea.
 
 ## 1B
