@@ -26,4 +26,5 @@ bronco{wh0_g4v3_th15_m4n_3d1t_pr1v1l3g35}
 
 # Notes
 If I was brighter, I would've just looked for the beginning of the CTF flag format. I wasn't sure whether the timestamp would lead me to an admin message with more clues or directly to a flag, but I should've grabbed the low-hanging fruit first. Also, filtering by a day after the event helps because Discord didn't load a few messages.
+1160888390661714032 also references the #announcements channel. Didn't even know you could get a channel's ID.
 ![alt text](docs/Admin-Abuse/image-1.png)
