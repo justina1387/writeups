@@ -6,12 +6,14 @@ the ctf was red/blue type of style where u were allowed to attack other teams by
 
 after identifying the vulnerability (which started off as a handful of typical OWASP top 10 web vulns) i'd create pseudocode, and had AI help me make an enumeration script that would POST the payloads every 60 seconds to match the CTF flag rotation every minute. this is how i would also dynamically test the payloads.
 
+> an example
 ## infiniteclipping (`infinite_clippings_v1`)
 
 > IDOR → Flag Leak
 - `GET /user/<int:user_id>` — only checks `@login_required`, no ownership check
 - **User ID 1** (`admin`) triggers the server to read `flag.txt` and inject it into the rendered `api_key` field
 - Any authenticated user can view any profile → visiting `/user/1` leaks the flag in plain HTML
+
 Chain: `GET /register` (CSRF token) → `POST /register` (throwaway account) → `GET /login` → `POST /login` → `GET /user/1` → regex extract `RTA{...}`
 
 ![alt text](docs/readme/image-1.png)
