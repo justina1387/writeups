@@ -17,3 +17,4 @@ after identifying the vulnerability (which started off as a handful of typical O
 Chain: `GET /register` (CSRF token) → `POST /register` (throwaway account) → `GET /login` → `POST /login` → `GET /user/1` → regex extract `RTA{...}`
 
 ![alt text](docs/readme/image-1.png)
+*example of enumeration script working in conjunction with the payload, + flag rotation*
