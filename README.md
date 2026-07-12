@@ -42,14 +42,14 @@ writeups/
 ## Writeup Format
 
 ```
-Team Name | Alias | CTF Name | Category
+**`Team Name | Alias | CTF Name | Category`**
 
 > Ranking image
 > Personally solved: x challenges
 > Attempted: x challenges
 
 # Challenge Information
-- Name | Author | Difficulty
+**`Name | Author | Difficulty`**
 
 # Steps
 [...]

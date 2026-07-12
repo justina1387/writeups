@@ -1,4 +1,4 @@
-e0sec | overtsleeping | BroncoCTF 2026 | OSINT
+**`e0sec | overtsleeping | BroncoCTF 2026 | OSINT`**
 
 <img src="docs/Digital Crumbs/Screenshot 2026-07-12 at 02-07-03 BroncoCTF.png" alt="alt text" width="406">
 
