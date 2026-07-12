@@ -1,6 +1,8 @@
 # writeups
 
 CTF writeups by [overtsleeping](https://overtsleeping.com) — includes failed attempts that were close to solve for future reference. Or not. *do not bully me thx!*
+![[ba251c4aa7472119fb4cef3aad173915.jpg|359]]
+---
 
 ## Repository Structure
 
