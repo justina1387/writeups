@@ -16,10 +16,10 @@ Note: You do not need to download Roblox to play Arcane Odyssey for this. This c
 Hint: The challenge is talking about the place where the character is not what they are looking at. This may be the same place in some cases.
 
 My note: Images are 1B, 2N, 3N, and 4B, respectively.
-<img src="docs/AO-SINT/location1B.png" alt="alt text" width="474"> 
-<img src="docs/AO-SINT/location2N.png" alt="alt text" width="475"> 
-<img src="docs/AO-SINT/location3N.png" alt="alt text" width="475"> 
-<img src="docs/AO-SINT/location4B.png" alt="alt text" width="475">
+<img src="docs/AO-SINT/location1B.png" alt="alt text"> 
+<img src="docs/AO-SINT/location2N.png" alt="alt text"> 
+<img src="docs/AO-SINT/location3N.png" alt="alt text"> 
+<img src="docs/AO-SINT/location4B.png" alt="alt text">
 
 
 # Steps
