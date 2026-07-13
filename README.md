@@ -38,6 +38,7 @@ writeups/
 | CTF | Status |
 |-----|---------|
 | Swimmer Diver OSINT 2026 | [Completed](https://ctftime.org/team/28687) |
+| Junior Crypt CTF 2026 | Completed |
 
 ## Writeup Format
 
